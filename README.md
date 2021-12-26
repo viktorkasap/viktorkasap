@@ -1,14 +1,29 @@
 ### Hi there 👋
 
-### GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kasapvictor&hide=contribs&show_icons=true&theme=cobalt" height="150" />
-</p>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">### GitHub Stats</b></td>
+    <td><b style="font-size:30px">### Languages</b></td>
+ </tr>
+ <tr>
+    <td>
+      <p>
+      <img src="https://github-readme-stats.vercel.app/api?username=kasapvictor&hide=contribs&show_icons=true&theme=cobalt" height="150" />
+      </p>
+   </td>
+    <td>
+    <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasapvictor&layout=compact&hide_border=true" height="150" />
+    </p>
+   </td>
+ </tr>
+</table>
 
-### Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasapvictor&layout=compact&hide_border=true" height="150" />
-</p>
+
+
+
+
+
 
 ### Wakatime Stats
 <p align="center">
