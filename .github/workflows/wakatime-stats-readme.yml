@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update the WakaTime Stat
+    name: Update the WakaTime Statistics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
