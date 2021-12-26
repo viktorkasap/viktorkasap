@@ -8,4 +8,6 @@
 
 [![wakatime](https://wakatime.com/badge/user/e8e29ae6-42d6-4cc3-b1d4-94b3bb378216.svg)](https://wakatime.com/@e8e29ae6-42d6-4cc3-b1d4-94b3bb378216)
 
-<figure><embed src="https://wakatime.com/share/@Vick/2c6e1a40-4988-4263-bd52-9d41f6585b0c.svg"></embed></figure>
+<p align="center">
+<img src="https://wakatime.com/shre/user/@e8e29ae6-42d6-4cc3-b1d4-94b3bb378216.svg" height="400" />
+</p>
