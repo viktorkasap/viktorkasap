@@ -30,8 +30,8 @@
 
 </div>
 
-wakatime
-<!-- START SECTION:waka -->
-<!-- END SECTION:waka -->
+### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
