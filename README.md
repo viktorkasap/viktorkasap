@@ -30,8 +30,4 @@
 
 </div>
 
-<!-- START SECTION:waka -->
-<!-- END SECTION:waka -->
 
-----
-03f3c1ea-842a-4fdb-947f-1d483270989f
