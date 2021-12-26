@@ -1,4 +1,4 @@
-name: waka-box
+name: Waka Stats Readme
 
 on:
   workflow_dispatch:
@@ -13,7 +13,7 @@ jobs:
     steps:
       # - uses: athul/waka-readme@master # working
       # - uses: anmol098/waka-readme-stats@master # working
-      - uses: matchai/waka-box@v4.0.5
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_LINES_OF_CODE: "True"
