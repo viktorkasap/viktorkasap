@@ -22,11 +22,11 @@
 
 ### WakaTime Stats
 
+[![wakatime](https://wakatime.com/badge/user/e8e29ae6-42d6-4cc3-b1d4-94b3bb378216.svg)](https://wakatime.com/@e8e29ae6-42d6-4cc3-b1d4-94b3bb378216)
+
 <p>
 <img src="https://wakatime.com/share/@Vick/6d27d4dd-d677-4757-a360-65ce7e172f54.svg" width="100%" height="300" />
 </p>
-
-[![wakatime](https://wakatime.com/badge/user/e8e29ae6-42d6-4cc3-b1d4-94b3bb378216.svg)](https://wakatime.com/@e8e29ae6-42d6-4cc3-b1d4-94b3bb378216)
 
 </div>
 
