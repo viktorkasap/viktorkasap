@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kasapvictor&hide=contribs&show_icons=true&theme=cobalt)](https://github.com/kasapvictor/kasapvictor)
+### GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kasapvictor&hide=contribs&show_icons=true&theme=cobalt" height="400" />
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kasapvictor&layout=compact&hide_border=true)](https://github.com/kasapvictor/kasapvictor)
+### Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasapvictor&layout=compact&hide_border=true" height="400" />
+</p>
 
 ### Wakatime Stats
 <p align="center">
