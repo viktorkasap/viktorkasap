@@ -2,12 +2,12 @@
 
 ### GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kasapvictor&hide=contribs&show_icons=true&theme=cobalt" height="400" />
+<img src="https://github-readme-stats.vercel.app/api?username=kasapvictor&hide=contribs&show_icons=true&theme=cobalt" height="150" />
 </p>
 
 ### Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasapvictor&layout=compact&hide_border=true" height="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasapvictor&layout=compact&hide_border=true" height="150" />
 </p>
 
 ### Wakatime Stats
