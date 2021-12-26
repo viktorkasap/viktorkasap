@@ -2,8 +2,8 @@
 
 <table border="0">
  <tr>
-    <td><b style="font-size:30px">### GitHub Stats</b></td>
-    <td><b style="font-size:30px">### Languages</b></td>
+    <td><b style="font-size:30px">GitHub Stats</b></td>
+    <td><b style="font-size:30px">Languages</b></td>
  </tr>
  <tr>
     <td>
@@ -18,12 +18,6 @@
    </td>
  </tr>
 </table>
-
-
-
-
-
-
 
 ### Wakatime Stats
 <p align="center">
