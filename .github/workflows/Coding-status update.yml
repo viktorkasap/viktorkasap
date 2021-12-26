@@ -1,4 +1,4 @@
-name: WakaTime Status Update
+name: Waka Readme
 
 on:
   workflow_dispatch:
@@ -11,6 +11,6 @@ jobs:
     name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/wakatime-status-update@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
