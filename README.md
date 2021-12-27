@@ -32,7 +32,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   56 mins         █████████░░░░░░░░░░░░░░░░   36.64 % 
+YAML       38 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 % 
+PHP        37 mins         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+SCSS       11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+CSS        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
 ```
 <!--END_SECTION:waka-->
 
