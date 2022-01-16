@@ -30,14 +30,3 @@
 
 </div>
 
-<!--START_SECTION:waka-->
-```text
-PHP          10 hrs 51 mins  ███████▒░░░░░░░░░░░░░░░░░   29.86 % 
-JavaScript   10 hrs 42 mins  ███████▒░░░░░░░░░░░░░░░░░   29.47 % 
-Makefile     4 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-JSON         2 hrs 36 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-HTML         2 hrs 12 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-```
-<!--END_SECTION:waka-->
-
-
