@@ -1,4 +1,13 @@
 <div style="max-width: 980px; margin: 0 auto">
+ 
+```js 
+ const I = {
+  am: 'a Front-end Developer',
+  love: ['Web development', 'Sport', 'Traveling', 'Animals'],
+  workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'PHP', 'Node.js', 'React', 'Redux Toolkit', 'WordPress'],
+  useTools: ['PHPStorm', 'Webpack', 'Docker', 'Git'],
+};
+```
 
 ### Hi there 👋
 <table>
