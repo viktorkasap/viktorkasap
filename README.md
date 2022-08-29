@@ -1,6 +1,10 @@
 <div style="max-width: 980px; margin: 0 auto">
  
-```js 
+
+
+### Hi there 👋
+ 
+ ```js 
  const I = {
   am: 'a Front-end Developer',
   love: ['Web development', 'Sport', 'Traveling', 'Animals'],
@@ -8,8 +12,10 @@
   useTools: ['PHPStorm', 'Webpack', 'Docker', 'Git'],
 };
 ```
-
-### Hi there 👋
+ <p style="font-size: 14px;">Telegram: <a style="font-size: 14px" href="https://t.me/vicart">@VicArt</a></p>
+ <p style="font-size: 14px;">Email: <a style="font-size: 14px" href="mailto:kasap.victor@gmail.com">kasap.victor@gmail.com</a></p>
+ <hr/>
+ 
 <table>
  <tr>
     <td><b style="font-size:24px">GitHub Stats</b></td>
