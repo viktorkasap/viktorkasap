@@ -8,7 +8,7 @@
  const I = {
   am: 'a Front-end Developer',
   love: ['Web development', 'Sport', 'Traveling', 'Animals'],
-  workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'PHP', 'Node.js', 'React', 'Redux Toolkit', 'Zustand', 'Next', 'WordPress'],
+  workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'PHP', 'Node.js', 'React', 'Redux Toolkit', 'Next', 'WordPress'],
   useTools: ['PHPStorm', 'Vite', 'Webpack', 'Docker', 'Git'],
 };
 ```
