@@ -8,9 +8,8 @@
  const I = {
   am: 'a Front-end Developer',
   love: ['Web development', 'Sport', 'Traveling', 'Animals'],
-  skills: {
-    frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Redux Toolkit', 'Zustand', 'Effector', 'Next'],
-    backend: ['PHP', 'Node.js', 'WordPress'],
+  frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Redux Toolkit', 'Zustand', 'Effector', 'Next'],
+  backend: ['PHP', 'Node.js', 'WordPress'],
   tools: ['PHPStorm', 'Vite', 'Webpack', 'Docker', 'Git', 'Postman'],
   integration: ['CI/CD', 'Jenkins'],
   testing: ['Jest', 'Vitest]
