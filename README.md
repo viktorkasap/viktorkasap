@@ -27,12 +27,12 @@
  <tr>
     <td style="width: 50%">
         <figure style="width:100%; margin:0">
-            <img src="https://github-readme-stats.vercel.app/api?username=kasapvictor&hide=contribs&show_icons=true&theme=cobalt" width="100%" height="100%"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=viktorkasap&hide=contribs&show_icons=true&theme=cobalt" width="100%" height="100%"/>
         </figure>
     </td>
     <td style="width: 50%">
         <figure style="width: 100%; margin:0">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasapvictor&layout=compact&hide_border=true" width="100%" height="100%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viktorkasap&layout=compact&hide_border=true" width="100%" height="100%" />
         </figure>
     </td>
  </tr>
