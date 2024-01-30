@@ -8,11 +8,11 @@
  const I = {
   am: 'a Front-end Developer',
   love: ['Web development', 'Sport', 'Traveling', 'Animals'],
-  frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Redux Toolkit', 'Zustand', 'Effector', 'Next'],
+  frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Redux Toolkit', 'Zustand', 'Effector', 'StoryBook', 'Next'],
   backend: ['PHP', 'Node.js', 'WordPress'],
   tools: ['PHPStorm', 'Vite', 'Webpack', 'Docker', 'Git', 'Postman'],
   integration: ['CI/CD', 'Jenkins'],
-  testing: ['Jest', 'Vitest]
+  testing: ['Jest', 'Vitest']
 };
 ```
  <p style="font-size: 14px;">Telegram: <a style="font-size: 14px" href="https://t.me/vicart">@VicArt</a></p>
