@@ -8,8 +8,12 @@
  const I = {
   am: 'a Front-end Developer',
   love: ['Web development', 'Sport', 'Traveling', 'Animals'],
-  workWith: ['HTML', 'CSS', 'SCSS', 'JS', 'PHP', 'Node.js', 'React', 'Redux Toolkit', 'Next', 'WordPress'],
-  useTools: ['PHPStorm', 'Vite', 'Webpack', 'Docker', 'Git'],
+  skills: {
+    frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Redux Toolkit', 'Zustand', 'Effector', 'Next'],
+    backend: ['PHP', 'Node.js', 'WordPress'],
+  tools: ['PHPStorm', 'Vite', 'Webpack', 'Docker', 'Git', 'Postman'],
+  integration: ['CI/CD', 'Jenkins'],
+  testing: ['Jest', 'Vitest]
 };
 ```
  <p style="font-size: 14px;">Telegram: <a style="font-size: 14px" href="https://t.me/vicart">@VicArt</a></p>
