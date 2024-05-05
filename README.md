@@ -15,8 +15,8 @@
   testing: ['Jest', 'Vitest']
 };
 ```
- <p style="font-size: 14px;">Telegram: <a style="font-size: 14px" href="https://t.me/vicart">@VicArt</a></p>
- <p style="font-size: 14px;">Email: <a style="font-size: 14px" href="mailto:kasap.victor@gmail.com">kasap.victor@gmail.com</a></p>
+ <p style="font-size: 14px; line-height: 1;">Telegram: <a style="font-size: 14px" href="https://t.me/vicart">@VicArt</a></p>
+ <p style="font-size: 14px; line-height: 1;">Email: <a style="font-size: 14px" href="mailto:kasap.victor@gmail.com">kasap.victor@gmail.com</a></p>
  <hr/>
  
 <table>
