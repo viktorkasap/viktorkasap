@@ -19,7 +19,25 @@
  <p style="font-size: 14px; line-height: 1;">Email: <a style="font-size: 14px" href="mailto:kasap.victor@gmail.com">kasap.victor@gmail.com</a></p>
  <hr/>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=viktorkasap)](https://github.com/stats-organization/github-stats-extended)
+<table>
+ <tr>
+    <td><b style="font-size:24px">GitHub Stats</b></td>
+    <td><b style="font-size:24px">Languages</b></td>
+ </tr>
+ <tr>
+    <td style="width: 50%">
+        <figure style="width:100%; margin:0">
+            <img src="https://github-stats-extended.vercel.app/api?username=viktorkasap" width="100%" height="100%"/>
+        </figure>
+    </td>
+    <td style="width: 50%">
+        <figure style="width: 100%; margin:0">
+            <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=viktorkasap&langs_count=4" width="100%" height="100%" />
+        </figure>
+    </td>
+ </tr>
+</table>
+
 
 ### WakaTime Stats
 
