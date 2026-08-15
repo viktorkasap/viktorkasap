@@ -19,6 +19,8 @@
  <p style="font-size: 14px; line-height: 1;">Email: <a style="font-size: 14px" href="mailto:kasap.victor@gmail.com">kasap.victor@gmail.com</a></p>
  <hr/>
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=viktorkasap)](https://github.com/stats-organization/github-stats-extended)
+
 ### WakaTime Stats
 
 [![wakatime](https://wakatime.com/badge/user/e8e29ae6-42d6-4cc3-b1d4-94b3bb378216.svg)](https://wakatime.com/@e8e29ae6-42d6-4cc3-b1d4-94b3bb378216)
