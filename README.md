@@ -6,12 +6,11 @@
  
  ```js 
  const I = {
-  am: 'a Front-end Developer',
+  am: 'Software Engineer',
   love: ['Web development', 'Sport', 'Traveling', 'Animals'],
-  frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Redux Toolkit', 'Zustand', 'Effector', 'StoryBook', 'Next'],
+  frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Next', 'Redux Toolkit', 'Zustand', 'Effector', 'Storybook'],
   backend: ['PHP', 'Node.js', 'WordPress'],
-  tools: ['PHPStorm', 'Vite', 'Webpack', 'Docker', 'Git', 'Postman'],
-  integration: ['CI/CD', 'Jenkins'],
+  tools: ['LazyVim', 'WebStorm', 'Vite', 'Webpack', 'Docker', 'Git', 'Postman', 'GitHub Actions'],
   testing: ['Jest', 'Vitest']
 };
 ```
