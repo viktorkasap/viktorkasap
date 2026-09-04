@@ -9,7 +9,7 @@
   am: 'Software Engineer',
   love: ['Web development', 'Sport', 'Traveling', 'Animals'],
   frontend: ['HTML/CSS', 'JavaScript', 'TypeScript', 'React', 'Next', 'Redux Toolkit', 'Zustand', 'Effector', 'Storybook'],
-  backend: ['PHP', 'Node.js', 'WordPress'],
+  backend: ['Node.js', 'PHP', 'WordPress'],
   tools: ['LazyVim', 'WebStorm', 'Vite', 'Webpack', 'Docker', 'Git', 'Postman', 'GitHub Actions'],
   testing: ['Jest', 'Vitest']
 };
